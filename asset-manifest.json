@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.716ebe98.css",
+    "main.js": "/portfolio/static/js/main.e3fd0aff.js",
+    "static/media/netflix.jpg": "/portfolio/static/media/netflix.d2e068f59b041a54c14c.jpg",
+    "static/media/disney.png": "/portfolio/static/media/disney.f3b363e8c4ae683655e2.png",
+    "static/media/tesla.png": "/portfolio/static/media/tesla.e15b7bb161a1a1f2b337.png",
+    "static/media/RockPaperScissor.png": "/portfolio/static/media/RockPaperScissor.c22e6eb6b5285c4897d1.png",
+    "static/media/amazon.png": "/portfolio/static/media/amazon.8663d683bc9bcaebe58a.png",
+    "static/media/graphql.png": "/portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.0f59dc907a262351acad.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/sanity.png": "/portfolio/static/media/sanity.8fdc03a3e452db1c3633.png",
+    "static/media/nextjs.png": "/portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.716ebe98.css.map": "/portfolio/static/css/main.716ebe98.css.map",
+    "main.e3fd0aff.js.map": "/portfolio/static/js/main.e3fd0aff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716ebe98.css",
+    "static/js/main.e3fd0aff.js"
+  ]
+}
